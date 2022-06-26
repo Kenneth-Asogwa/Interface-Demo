@@ -1,0 +1,10 @@
+c:\users\kenneth\source\repos\InterfaceDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+c:\users\kenneth\source\repos\InterfaceDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+c:\users\kenneth\source\repos\InterfaceDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+c:\users\kenneth\source\repos\InterfaceDemo\ConsoleUI\bin\Debug\InterfaceLibrary.dll
+c:\users\kenneth\source\repos\InterfaceDemo\ConsoleUI\bin\Debug\InterfaceLibrary.pdb
+c:\users\kenneth\source\repos\InterfaceDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+c:\users\kenneth\source\repos\InterfaceDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+c:\users\kenneth\source\repos\InterfaceDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+c:\users\kenneth\source\repos\InterfaceDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+c:\users\kenneth\source\repos\InterfaceDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb

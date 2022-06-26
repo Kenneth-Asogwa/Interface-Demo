@@ -1,0 +1,6 @@
+c:\users\kenneth\source\repos\InterfaceDemo\InterfaceLibrary\bin\Debug\InterfaceLibrary.dll
+c:\users\kenneth\source\repos\InterfaceDemo\InterfaceLibrary\bin\Debug\InterfaceLibrary.pdb
+c:\users\kenneth\source\repos\InterfaceDemo\InterfaceLibrary\obj\Debug\InterfaceLibrary.csprojAssemblyReference.cache
+c:\users\kenneth\source\repos\InterfaceDemo\InterfaceLibrary\obj\Debug\InterfaceLibrary.csproj.CoreCompileInputs.cache
+c:\users\kenneth\source\repos\InterfaceDemo\InterfaceLibrary\obj\Debug\InterfaceLibrary.dll
+c:\users\kenneth\source\repos\InterfaceDemo\InterfaceLibrary\obj\Debug\InterfaceLibrary.pdb
